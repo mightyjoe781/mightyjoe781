@@ -1,6 +1,8 @@
+![counter](https://en6s9itcmju324.m.pipedream.net)
+
 ### Hi there 👋
 #### I am smk.
-![counter](https://en6s9itcmju324.m.pipedream.net)
+[Blog Link](https://algo.minetest.in/)
 
 <!--
 **mightyjoe781/mightyjoe781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
