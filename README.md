@@ -8,9 +8,7 @@ Full-Stack Developer at JPMC;
     🌍 I'm mostly active within the Minetest and FreeBSD Community
     💬 ping me about minetest, unix/linux, and self-hosting.
 
-- Portfolio : [sudomoon](https://sudomoon.com/)
-- Notes     : [Notes Link](https://notes.minetest.in/)
-- Blog      : [Blog Link](https://algo.minetest.in/)
+[sudomoon](https://sudomoon.com/) | [Notes](https://notes.minetest.in/) | [Blog](https://algo.minetest.in/)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mightyjoe781&layout=compact&langs_count=8&hide=css,scss,html,less,javascript,jupyter%20notebook,ejs"/>
 <!--
