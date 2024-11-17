@@ -6,7 +6,7 @@ Full-Stack Developer at JPMC;
 
     ⚙️ I use daily: .py, .lua, .go
     🌍 I'm mostly active within the Minetest and FreeBSD Community
-    💬 ping me about minetest, os, os, and self-hosting.
+    💬 ping me about minetest, unix/linux, and self-hosting.
 
 - Portfolio : [sudomoon](https://sudomoon.com/)
 - Notes     : [Notes Link](https://notes.minetest.in/)
