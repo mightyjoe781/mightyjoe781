@@ -1,7 +1,16 @@
 ![counter](https://en6s9itcmju324.m.pipedream.net)
 ### Hello there 👋
 #### I am smk.
-[Blog Link](https://algo.minetest.in/)
+
+Full-Stack Developer at JPMC;
+
+    ⚙️ I use daily: .py, .lua, .go
+    🌍 I'm mostly active within the Minetest and FreeBSD Community
+    💬 ping me about minetest, os, os, and self-hosting.
+
+- Portfolio : [sudomoon](https://sudomoon.com/)
+- Notes     : [Notes Link](https://notes.minetest.in/)
+- Blog      : [Blog Link](https://algo.minetest.in/)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mightyjoe781&layout=compact&langs_count=8&hide=css,scss,html,less,javascript,jupyter%20notebook,ejs"/>
 <!--
