@@ -10,6 +10,10 @@ Full-Stack Developer at JPMC;
 
 [sudomoon](https://sudomoon.com/) | [Notes](https://notes.minetest.in/) | [Blog](https://algo.minetest.in/)
 
+Contact Information:
+* Email: `smk <at> freebsd.org`
+* Discord: `sudomoon`
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mightyjoe781&layout=compact&langs_count=8&hide=css,scss,html,less,javascript,jupyter%20notebook,ejs"/>
 <!--
 **mightyjoe781/mightyjoe781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
